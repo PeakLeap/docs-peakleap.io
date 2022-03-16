@@ -15,6 +15,18 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "facebook", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
+  plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        indexDocs: true,
+        indexDocSidebarParentCategories: 2,
+        indexPages: true,
+        language: "en",
+        style: undefined,
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -57,15 +69,15 @@ const config = {
             label: "Documentation",
           },
           {
+            type: "docsVersionDropdown",
+            position: "right",
+            dropdownItemsAfter: [{ to: "/versions", label: "All versions" }],
+            dropdownActiveClassDisabled: true,
+          },
+          {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
             position: "right",
-          },
-          {
-            type: "docsVersionDropdown",
-            position: "left",
-            dropdownItemsAfter: [{ to: "/versions", label: "All versions" }],
-            dropdownActiveClassDisabled: true,
           },
         ],
       },
