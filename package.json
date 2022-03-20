@@ -1,5 +1,5 @@
 {
-  "name": "docs-peakleap-com",
+  "name": "dmytro-test-io",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -15,11 +15,11 @@
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^0.10.0",
+    "docusaurus-lunr-search": "^2.1.15",
     "@docusaurus/core": "2.0.0-beta.17",
     "@docusaurus/preset-classic": "2.0.0-beta.17",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
-    "docusaurus-lunr-search": "^2.1.15",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
@@ -35,21 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.",
-  "main": "babel.config.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PeakLeap/docs.peakleap.com.git"
-  },
-  "author": "dmytro.popov",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PeakLeap/docs.peakleap.com/issues"
-  },
-  "homepage": "https://github.com/PeakLeap/docs.peakleap.com#readme"
+  }
 }
