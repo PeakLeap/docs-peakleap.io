@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
-  url: "https://leakleap.github.io/",
+  url: "https://peakleap.github.io/",
   baseUrl: "/docs.peakleap.com/",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
