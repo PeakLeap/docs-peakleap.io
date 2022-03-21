@@ -9,11 +9,11 @@ const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
   url: "https://peakleap.github.io/",
-  baseUrl: "/docs.peakleap.com/",
+  baseUrl: "/docs-peakleap.io/",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "PeakLeap", // Usually your GitHub org/user name.
-  projectName: "docs.peakleap.com", // Usually your repo name.
+  projectName: "docs-peakleap.io", // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: 'log',
   plugins: [
