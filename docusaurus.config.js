@@ -9,7 +9,7 @@ const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
   url: "https://peakleap.github.io/",
-  baseUrl: "/docs.peakleap.com/",
+  baseUrl: "/",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "PeakLeap", // Usually your GitHub org/user name.
@@ -38,7 +38,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/PeakLeap/docs.peakleap.com/tree/master/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
