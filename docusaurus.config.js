@@ -9,7 +9,7 @@ const config = {
   title: "Peak Leap",
   tagline: "Dinosaurs are cool",
   url: "https://peakleap.github.io/",
-  baseUrl: "/",
+  baseUrl: "/docs.peakleap.com/",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "PeakLeap", // Usually your GitHub org/user name.
