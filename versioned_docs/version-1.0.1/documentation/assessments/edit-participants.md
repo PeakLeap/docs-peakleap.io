@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
 sidebar_label: Participants
-id: participants
+id: edit-participants
 title: Participants
 ---
