@@ -44,6 +44,17 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "The PeakLeap Platform",
+      items: [
+        "documentation/peakleap-platform/admin",
+        "documentation/peakleap-platform/profile",
+        "documentation/peakleap-platform/settings",
+        "documentation/peakleap-platform/organization",
+        "documentation/peakleap-platform/issue-credentials",
+      ],
+    },
+    {
+      type: "category",
       label: "Courses",
       items: [
         "documentation/courses/create-a-course",
