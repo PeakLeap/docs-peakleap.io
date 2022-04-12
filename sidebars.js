@@ -73,9 +73,9 @@ const sidebars = {
           type: "category",
           label: "Edit course",
           items: [
-            "documentation/courses/settings",
-            "documentation/courses/participants",
-            "documentation/courses/sections",
+            "documentation/courses/edit-settings",
+            "documentation/courses/edit-participants",
+            "documentation/courses/edit-sections",
           ],
         },
       ],
@@ -103,9 +103,16 @@ const sidebars = {
       label: "Assessments",
       items: [
         "documentation/assessments/create-new-assessment",
-        "documentation/assessments/participants",
-        "documentation/assessments/questions",
-        "documentation/assessments/settings",
+        {
+          type: "category",
+          label: "Edit assessment",
+          items: [
+            "documentation/assessments/edit-participants",
+            "documentation/assessments/edit-questions",
+            "documentation/assessments/edit-settings",
+          ],
+        },
+
       ],
     },
   ],
