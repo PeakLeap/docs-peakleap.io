@@ -94,8 +94,8 @@ const sidebars = {
       items: [
         "documentation/credentials/incoming",
         "documentation/credentials/outgoing",
-        "documentation/credentials/batch-issue",
         "documentation/credentials/issue-credential",
+        "documentation/credentials/batch-issue",
       ],
     },
     {
