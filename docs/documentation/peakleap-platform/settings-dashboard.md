@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
 sidebar_label: Dashboard 
-id: dashboard 
+id: settings-dashboard 
 title: Dashboard 
 ---

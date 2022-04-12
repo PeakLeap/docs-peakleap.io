@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
 sidebar_label: Profile
-id: profile 
+id: settings-profile 
 title: Profile
 ---
