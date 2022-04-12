@@ -52,12 +52,12 @@ const sidebars = {
           type: "category",
           label: "Settings",
           items: [
-            "documentation/peakleap-platform/settings/dashboard", 
-            "documentation/peakleap-platform/settings/profile",
-            "documentation/peakleap-platform/settings/billing",
-            "documentation/peakleap-platform/settings/merchant",
-            "documentation/peakleap-platform/settings/referrals",
-            "documentation/peakleap-platform/settings/settings"
+            "documentation/peakleap-platform/settings-dashboard", 
+            "documentation/peakleap-platform/settings-profile",
+            "documentation/peakleap-platform/settings-billing",
+            "documentation/peakleap-platform/settings-merchant",
+            "documentation/peakleap-platform/settings-referrals",
+            "documentation/peakleap-platform/settings-settings"
           ],
         },
         "documentation/peakleap-platform/organization",
