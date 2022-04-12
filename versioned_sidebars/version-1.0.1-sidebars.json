@@ -27,7 +27,7 @@
   "docsSidebar": [
     {
       "type": "category",
-      "label": "Documentation",
+      "label": "Getting started",
       "items": [
         "documentation/getting-started"
       ]
@@ -58,11 +58,16 @@
       "type": "category",
       "label": "Courses",
       "items": [
-        "documentation/courses/create-a-course",
-        "documentation/courses/edit-course",
-        "documentation/courses/participants",
-        "documentation/courses/sections",
-        "documentation/courses/settings"
+        "documentation/courses/create-a-new-course",
+        {
+          "type": "category",
+          "label": "Edit course",
+          "items": [
+            "documentation/courses/settings",
+            "documentation/courses/participants",
+            "documentation/courses/sections"
+          ]
+        }
       ]
     },
     {

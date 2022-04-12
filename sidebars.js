@@ -39,7 +39,7 @@ const sidebars = {
   docsSidebar: [
     {
       type: "category",
-      label: "Documentation",
+      label: "Getting started",
       items: ["documentation/getting-started"],
     },
     {
@@ -57,22 +57,27 @@ const sidebars = {
             "documentation/peakleap-platform/settings-billing",
             "documentation/peakleap-platform/settings-merchant",
             "documentation/peakleap-platform/settings-referrals",
-            "documentation/peakleap-platform/settings-settings"
+            "documentation/peakleap-platform/settings-settings",
           ],
         },
         "documentation/peakleap-platform/organization",
-        "documentation/peakleap-platform/issue-credentials"
+        "documentation/peakleap-platform/issue-credentials",
       ],
     },
     {
       type: "category",
       label: "Courses",
       items: [
-        "documentation/courses/create-a-course",
-        "documentation/courses/edit-course",
-        "documentation/courses/participants",
-        "documentation/courses/sections",
-        "documentation/courses/settings",
+        "documentation/courses/create-a-new-course",
+        {
+          type: "category",
+          label: "Edit course",
+          items: [
+            "documentation/courses/settings",
+            "documentation/courses/participants",
+            "documentation/courses/sections",
+          ],
+        },
       ],
     },
     {
