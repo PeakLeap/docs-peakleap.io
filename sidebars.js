@@ -40,7 +40,7 @@ const sidebars = {
     {
       type: "category",
       label: "Documentation",
-      items: ["documentation/getting-started", "documentation/entity/test"],
+      items: ["documentation/getting-started"],
     },
     {
       type: "category",
