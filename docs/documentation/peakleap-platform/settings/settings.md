@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 sidebar_label: Settings
-id: settings
+id: settings 
 title: Settings
 ---

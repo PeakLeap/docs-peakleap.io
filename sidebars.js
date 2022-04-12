@@ -48,15 +48,21 @@ const sidebars = {
       items: [
         "documentation/peakleap-platform/admin",
         "documentation/peakleap-platform/profile",
-        "documentation/peakleap-platform/settings",
         {
           type: "category",
-          label: "The PeakLeap Platform",
-          items: ["documentation/peakleap-platform/organization",  "documentation/peakleap-platform/issue-credentials"]
+          label: "Settings",
+          items: [
+            "documentation/peakleap-platform/settings/dashboard", 
+            "documentation/peakleap-platform/settings/profile",
+            "documentation/peakleap-platform/settings/billing",
+            "documentation/peakleap-platform/settings/merchant",
+            "documentation/peakleap-platform/settings/referrals",
+            "documentation/peakleap-platform/settings/settings"
+          ]
         },
         "documentation/peakleap-platform/organization",
-        "documentation/peakleap-platform/issue-credentials",
-      ],
+        "documentation/peakleap-platform/issue-credentials"
+      ]
     },
     {
       type: "category",
