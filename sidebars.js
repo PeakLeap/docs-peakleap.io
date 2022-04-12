@@ -82,12 +82,10 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "Assessments",
+      label: "Programs",
       items: [
-        "documentation/assessments/create-new-assessment",
-        "documentation/assessments/participants",
-        "documentation/assessments/questions",
-        "documentation/assessments/settings",
+        "documentation/programs/create-new-program",
+        "documentation/programs/edit-program",
       ],
     },
     {
@@ -100,10 +98,12 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "Programs",
+      label: "Assessments",
       items: [
-        "documentation/programs/create-new-program",
-        "documentation/programs/edit-program",
+        "documentation/assessments/create-new-assessment",
+        "documentation/assessments/participants",
+        "documentation/assessments/questions",
+        "documentation/assessments/settings",
       ],
     },
   ],
