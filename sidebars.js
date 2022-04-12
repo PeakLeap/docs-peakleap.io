@@ -58,11 +58,11 @@ const sidebars = {
             "documentation/peakleap-platform/settings/merchant",
             "documentation/peakleap-platform/settings/referrals",
             "documentation/peakleap-platform/settings/settings"
-          ]
+          ],
         },
         "documentation/peakleap-platform/organization",
         "documentation/peakleap-platform/issue-credentials"
-      ]
+      ],
     },
     {
       type: "category",
