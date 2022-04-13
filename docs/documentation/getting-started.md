@@ -7,7 +7,7 @@ id: getting-started
 
  - **Overview**
 We are what's next for education & professional development.
-OSU provides the missing network that enables individuals and institutions worldwide to send and receive information about educational qualifications & professional credentials in a secure, standardized and reliable environment.
+PeakLeap provides the missing network that enables individuals and institutions worldwide to send and receive information about educational qualifications & professional credentials in a secure, standardized and reliable environment.
 
  - **For Learners**
 Organize & validate all your achievements.
@@ -19,4 +19,24 @@ Our blockchain and smart contracts connect you to your counterparties worldwide,
 
  - **For Businesses**
 Save time & money on connecting individuals and organizations.
-At its core, OSU enables smarter sourcing and continuous professional development, based on instant access to trusted credentials and opportunities.
+At its core, PeakLeap enables smarter sourcing and continuous professional development, based on instant access to trusted credentials and opportunities.
+
+
+# Features
+
+ - **For Courses**
+PeakLeap is a platform where you can create, buy or sell courses. In your course, you can add multiple sections.
+In your section, you can add different items with:
+    - text
+    - video (Upload)
+    - video (Youtube)
+    - Live session
+
+    - In each item you can upload different files.
+
+
+ - **For Programs**
+
+ - **For Credentials**
+
+ - **For Assessments**
