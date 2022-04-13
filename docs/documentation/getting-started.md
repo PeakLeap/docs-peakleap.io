@@ -25,11 +25,7 @@ At its core, PeakLeap enables smarter sourcing and continuous professional devel
 # Features
 
 Peak Leap is platform which allows you to create:
-
-     - **Courses**
-
-     - **Programs**
-    
-     - **Credentials**
-
-     - **Assessments**
+ - **Courses**
+ - **Programs**
+ - **Credentials**
+ - **Assessments**
