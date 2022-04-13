@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Peak Leap",
+  title: "PeakLeap",
   tagline: "Dinosaurs are cool",
   url: "https://peakleap.github.io/",
   baseUrl: "/docs-peakleap.io/",
@@ -51,9 +51,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Peak Leap",
+        title: "PeakLeap",
         logo: {
-          alt: "Peak Leap Logo",
+          alt: "PeakLeap Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -115,7 +115,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Peak Leap, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PeakLeap, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

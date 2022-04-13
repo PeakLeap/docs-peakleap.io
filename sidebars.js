@@ -40,7 +40,10 @@ const sidebars = {
     {
       type: "category",
       label: "Getting started",
-      items: ["documentation/getting-started"],
+      items: [
+        "documentation/getting-started/introduction",
+        "documentation/getting-started/features",
+      ],
     },
     {
       type: "category",
@@ -119,9 +122,9 @@ const sidebars = {
             "documentation/assessments/edit-settings",
           ],
         },
-
       ],
     },
+    "documentation/glossary"
   ],
 };
 

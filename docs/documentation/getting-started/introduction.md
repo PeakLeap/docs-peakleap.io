@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
-id: getting-started
+sidebar_label: Introduction
+id: introduction
+title: Introduction
 ---
 
 # Getting Started
@@ -20,23 +22,3 @@ Our blockchain and smart contracts connect you to your counterparties worldwide,
  - **For Businesses**
 Save time & money on connecting individuals and organizations.
 At its core, PeakLeap enables smarter sourcing and continuous professional development, based on instant access to trusted credentials and opportunities.
-
-
-# Features
-
-Peak Leap is platform which allows you to create:
- - **Courses**
-
-PeakLeap allows you to buy and sell courses.
-
- - **Programs**
-
-With programs, you can group several courses into one program.
-
- - **Credentials**
-
-Credentials allow you to publish or receive a document protected by blockchain technology.
-
- - **Assessments**
-
-Assessments allow you to create questions to identify the quality of the participant's knowledge.
