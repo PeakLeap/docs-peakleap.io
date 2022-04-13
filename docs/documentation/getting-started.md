@@ -26,6 +26,10 @@ At its core, PeakLeap enables smarter sourcing and continuous professional devel
 
 Peak Leap is platform which allows you to create:
  - **Courses**
+PeakLeap allows you to buy and sell courses.
  - **Programs**
+With programs, you can group several courses into one program.
  - **Credentials**
+Credentials allow you to publish or receive a document protected by blockchain technology.
  - **Assessments**
+Assessments allow you to create questions to identify the quality of the participant's knowledge.
