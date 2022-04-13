@@ -25,8 +25,10 @@ At its core, PeakLeap enables smarter sourcing and continuous professional devel
 # Features
 
  - **For Courses**
+
 PeakLeap is a platform where you can create, buy or sell courses. In your course, you can add multiple sections.
 In your section, you can add different items with:
+
     - text
     - video (Upload)
     - video (Youtube)
