@@ -59,10 +59,9 @@ const sidebars = {
               label: "Billing",
               items: [    
                 "documentation/peakleap-platform/settings-billing-cloud",
-                "documentation/peakleap-platform/settings-merchant-saas",
+                "documentation/peakleap-platform/settings-billing-saas",
               ],
             },
-            "documentation/peakleap-platform/settings-billing",
             "documentation/peakleap-platform/settings-merchant",
             "documentation/peakleap-platform/settings-referrals",
             "documentation/peakleap-platform/settings-settings",
