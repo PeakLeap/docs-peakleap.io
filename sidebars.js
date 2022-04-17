@@ -110,6 +110,13 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "Verification",
+      items: [
+        "documentation/verification/verifying",
+      ],
+    },
+    {
+      type: "category",
       label: "Assessments",
       items: [
         "documentation/assessments/create-new-assessment",
